@@ -55,19 +55,6 @@
 * url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/space/activity3
 * imageUrl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/space/activity3.png
 
-### space-activity4
-
-* name: Fuel Up
-* type: tutorial
-* description: Use an extension to add a fuel gauge to your ship. Make sure to refuel often!
-* tags: intermediate, extensions
-
-
-* url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/space/activity4
-* imageUrl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/space/activity4.png
-
-
-
 ## platformer
 * name: Learn to Make a Platformer
 * description: A skillmap that takes you through how to build a platformer with multiple levels.
