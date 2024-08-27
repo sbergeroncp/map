@@ -25,5 +25,5 @@
 * description: Nexo to our tutorial cards
 * tags: easy
 
-* url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/interface/activity1 
+* url: https://arcade.makecode.com/#tutorial:github:sbergeroncp/mesjeux/jeu_3
 * imageUrl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/interface/activity1.png
