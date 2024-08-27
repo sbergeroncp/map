@@ -1,6 +1,7 @@
 # sample
 * name: Game Maker Guide
 * description: Initiation à la programmation MakeCode Arcade !
+* allowcodecarryover: yes
 
 ## interface
 * name: Apprendre à programmer un jeu avec la plateforme MakeCode Arcade.
@@ -13,7 +14,6 @@
 * type: tutorial
 * description: Mes premiers blocs
 * tags: easy
-* allowcodecarryover: yes
 * next: jeu_2
 
 * url: https://github.com/sbergeroncp/mesjeux/jeu_1
