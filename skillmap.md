@@ -13,6 +13,17 @@
 * type: tutorial
 * description: Intro to our tutorial cards
 * tags: easy
+* next: interface-activity2
+
+* url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/interface/activity1 
+* imageUrl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/interface/activity1.png
+
+### interface-activity2
+
+* name: Learn to use MakeCode Arcade
+* type: tutorial
+* description: Nexo to our tutorial cards
+* tags: easy
 
 * url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/interface/activity1 
 * imageUrl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/interface/activity1.png
