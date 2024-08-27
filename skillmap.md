@@ -14,5 +14,5 @@
 * description: Mes premiers blocs
 * tags: easy
 
-* url: https://arcade.makecode.com/#tutorial:github:sbergeroncp/mesjeux/jeu_2.md
-* imageUrl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/interface/activity1.png
+* url: https://arcade.makecode.com/--skillmap#github:sbergeroncp/mesjeux/jeu_1
+* imageUrl: 
