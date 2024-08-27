@@ -12,6 +12,7 @@
 ## interface
 * name: Apprendre à programmer un jeu avec la plateforme MakeCode Arcade.
 * description: Apprendre à programmer à l'aide de quelques blocs.
+* layout: manual
 * completionUrl: https://microsoft.github.io/pxt-skillmap-sample/certificates/understanding-arcade-tutorials.pdf
 
 ### jeu_1
@@ -21,10 +22,9 @@
 * description: Mes premiers blocs
 * tags: easy
 * next: jeu_2
-
 * url: https://github.com/sbergeroncp/mesjeux/jeu_1
 * imageUrl: 
-* position: 1 -1
+* position: 1 -5
 
 ### jeu_2
 
@@ -32,7 +32,6 @@
 * type: tutorial
 * description: Mes premiers blocs
 * tags: easy
-* position: 2 -1
-
+* position: 5 -1
 * url: https://github.com/sbergeroncp/mesjeux/jeu_2
 * imageUrl: 
