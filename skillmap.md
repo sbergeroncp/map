@@ -1,21 +1,21 @@
 # sample
 * name: Game Maker Guide
-* description: Level up your game making skills by completing the tutorials in this guide.
+* description: Initiation à la programmation MakeCode Arcade !
 
 ## interface
-* name: Learn to use MakeCode Arcade
-* description: This will teach you how to complete tutorials in Microsoft MakeCode Arcade.
+* name: Apprendre à programmer un jeu avec la plateforme MakeCode Arcade.
+* description: Apprendre à programmer à l'aide de quelques blocs.
 * completionUrl: https://microsoft.github.io/pxt-skillmap-sample/certificates/understanding-arcade-tutorials.pdf
 
 ### interface-activity1
 
-* name: Learn to use MakeCode Arcade
+* name: Utiliser MakeCode Arcade pour la première fois!
 * type: tutorial
-* description: Intro to our tutorial cards
+* description: Mes premiers blocs
 * tags: easy
 * next: interface-activity2
 
-* url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/interface/activity1 
+* url: https://arcade.makecode.com/#tutorial:github:sbergeroncp/mesjeux/jeu_2 
 * imageUrl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/interface/activity1.png
 
 ### interface-activity2
