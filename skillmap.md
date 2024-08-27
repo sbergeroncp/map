@@ -14,19 +14,19 @@
 
 * name: Utiliser MakeCode Arcade pour la première fois!
 * type: tutorial
-* description: Mes premiers blocs
+* description: Ma première séquence!
 * tags: easy
 * next: jeu_2
 * url: https://github.com/sbergeroncp/mesjeux/jeu_1
 * imageUrl: 
-
+* position: 1 -1
 
 ### jeu_2
 
-* name: Utiliser MakeCode Arcade pour la première fois!
+* name: Je vais plus loin.
 * type: tutorial
 * description: Mes premiers blocs
 * tags: easy
-
 * url: https://github.com/sbergeroncp/mesjeux/jeu_2
-* imageUrl: 
+* imageUrl:
+* position: -1 1
