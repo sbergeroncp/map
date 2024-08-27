@@ -14,5 +14,5 @@
 * description: Mes premiers blocs
 * tags: easy
 
-* url: https://github.com/sbergeroncp/mesjeux/blob/master/jeu_1
+* url: https://github.com/sbergeroncp/mesjeux/jeu_1
 * imageUrl: 
