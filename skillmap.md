@@ -17,13 +17,3 @@
 
 * url: https://arcade.makecode.com/#tutorial:github:sbergeroncp/mesjeux/jeu_2 
 * imageUrl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/interface/activity1.png
-
-### interface-activity2
-
-* name: Learn to use MakeCode Arcade
-* type: tutorial
-* description: Nexo to our tutorial cards
-* tags: easy
-
-* url: https://arcade.makecode.com/#tutorial:github:sbergeroncp/mesjeux/jeu_3
-* imageUrl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/interface/activity1.png
