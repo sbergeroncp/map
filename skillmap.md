@@ -24,6 +24,7 @@
 
 * url: https://github.com/sbergeroncp/mesjeux/jeu_1
 * imageUrl: 
+* position: 1 -1
 
 ### jeu_2
 
@@ -31,7 +32,7 @@
 * type: tutorial
 * description: Mes premiers blocs
 * tags: easy
-
+* position: 2 -1
 
 * url: https://github.com/sbergeroncp/mesjeux/jeu_2
 * imageUrl: 
