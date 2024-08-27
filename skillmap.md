@@ -13,7 +13,6 @@
 * type: tutorial
 * description: Mes premiers blocs
 * tags: easy
-* next: interface-activity2
 
 * url: https://arcade.makecode.com/#tutorial:github:sbergeroncp/mesjeux/jeu_2 
 * imageUrl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/interface/activity1.png
