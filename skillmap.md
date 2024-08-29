@@ -1,32 +1,36 @@
-# sample
-* name: Game Maker Guide
-* description: Initiation à la programmation MakeCode Arcade !
-* allowcodecarryover: yes
+# Save the Forest
+* name: Save the Forest
+* description: The last few summers have been some of the hottest on record and the forest service needs you to help keep fires under control. Use blocks to code your airtanker and set up tech so your ground team can help you save the forest!
+* infoUrl: skillmap/educator-info/forest-map-info
+* bannerUrl: /static/skillmap/forest/forest6.gif
+* backgroundurl: /static/skillmap/backgrounds/forest-comp.png
+* primarycolor: #b27ea3
+* secondarycolor: #ffffff
+* tertiarycolor: #249fa5
+* highlightcolor: #fcd34b
+* completednodecolor: #466849
 
 
-## interface
-* name: Apprendre à programmer un jeu avec la plateforme MakeCode Arcade.
-* description: Apprendre à programmer à l'aide de quelques blocs.
+## Save the Forest
+* name: Save the Forest
 * layout: manual
-* completionUrl: https://microsoft.github.io/pxt-skillmap-sample/certificates/understanding-arcade-tutorials.pdf
 
-### jeu_1
-
-* name: Utiliser MakeCode Arcade pour la première fois!
+### tuto_1
+* allowcodecarryover: false
+* name: Prepare Your Plane
 * type: tutorial
-* description: Ma première séquence!
-* tags: easy
-* next: jeu_2
-* url: https://github.com/sbergeroncp/mesjeux/jeu_1
-* imageUrl: 
-* position: 1 -1
+* description: Set up your airtanker to make sure you can get everywhere you need to be!
+* url: https://github.com/kiki-lee/forest_test/forest/forest1
+* imageUrl: /static/skillmap/forest/forest1.gif
+* tags: easy, sprite, movement
+* next: tuto_2
+* position: 0 0
 
-### jeu_2
-
-* name: Je vais plus loin.
+### tuto_2
+* name: 🔥 Burning Issues 🔥
 * type: tutorial
-* description: Mes premiers blocs
-* tags: easy
-* url: https://github.com/sbergeroncp/mesjeux/jeu_2
-* imageUrl:
-* position: -1 1
+* description: Use loops to add random fires to your map!
+* url: https://github.com/kiki-lee/forest_test/forest/forest2
+* imageUrl: /static/skillmap/forest/forest2.gif
+* tags: easy, loops, sprites
+* position: 1 0
