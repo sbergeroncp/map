@@ -20,7 +20,7 @@
 * name: Prepare Your Plane
 * type: tutorial
 * description: Set up your airtanker to make sure you can get everywhere you need to be!
-* url: https://github.com/kiki-lee/forest_test/forest/forest1
+* url: https://github.com/sbergeroncp/map/tuto_1
 * imageUrl: /static/skillmap/forest/forest1.gif
 * tags: easy, sprite, movement
 * next: tuto_2
@@ -30,7 +30,7 @@
 * name: 🔥 Burning Issues 🔥
 * type: tutorial
 * description: Use loops to add random fires to your map!
-* url: https://github.com/kiki-lee/forest_test/forest/forest2
+* url: https://github.com/sbergeroncp/map/tuto_2
 * imageUrl: /static/skillmap/forest/forest2.gif
 * tags: easy, loops, sprites
 * position: 1 0
