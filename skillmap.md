@@ -3,7 +3,7 @@
 * description: Utiliser les blocs de programmation.
 * infoUrl: skillmap/educator-info/forest-map-info
 * bannerUrl: /static/skillmap/forest/forest6.gif
-* backgroundurl: map/shootemup.png
+* backgroundurl: sbergeroncp/map/shootemup.png
 * primarycolor: #b27ea3
 * secondarycolor: #ffffff
 * tertiarycolor: #249fa5
