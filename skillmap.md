@@ -1,9 +1,9 @@
-# Save the Forest
-* name: Save the Forest
-* description: The last few summers have been some of the hottest on record and the forest service needs you to help keep fires under control. Use blocks to code your airtanker and set up tech so your ground team can help you save the forest!
+# Mon premier jeu
+* name: Mon premier jeu !
+* description: Utiliser les blocs de programmation.
 * infoUrl: skillmap/educator-info/forest-map-info
 * bannerUrl: /static/skillmap/forest/forest6.gif
-* backgroundurl: https://github.com/sbergeroncp/map/blob/master/shootemup.png
+* backgroundurl: map/shootemup.png
 * primarycolor: #b27ea3
 * secondarycolor: #ffffff
 * tertiarycolor: #249fa5
