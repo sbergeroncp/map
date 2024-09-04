@@ -8,8 +8,6 @@ Mon premier jeu !
 
 Ajoute le bloc ``||variables:définir mySprite||`` (onglet ``||sprites:Sprites||``) dans le bloc ``||loops:au démarrage||``.
 
-Clique sur le carré gris et sélectionne la même image que dans l'indice.
-
 ```blocks
 
 let vaisseau = sprites.create(tutorial_asset_exemple.spaceship_1, SpriteKind.Player)
