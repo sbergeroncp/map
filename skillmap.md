@@ -1,9 +1,9 @@
 # Mon premier jeu
 * name: Mon premier jeu !
 * description: Utiliser les blocs de programmation.
-* infoUrl: skillmap/educator-info/forest-map-info
-* bannerUrl: /static/skillmap/forest/forest6.gif
-* backgroundurl: sbergeroncp/map/shootemup.png
+* infoUrl: 
+* bannerUrl: 
+* backgroundurl: shootemup.png
 * primarycolor: #b27ea3
 * secondarycolor: #ffffff
 * tertiarycolor: #249fa5
@@ -11,17 +11,17 @@
 * completednodecolor: #466849
 
 
-## Save the Forest
-* name: Save the Forest
+## Mon premier jeu !
+* name: Mon premier jeu !
 * layout: manual
 
 ### tuto_1
 * allowcodecarryover: false
-* name: Prepare Your Plane
+* name: 💕 Ajout d'un lutin 💕
 * type: tutorial
-* description: Set up your airtanker to make sure you can get everywhere you need to be!
+* description: À ajouter !
 * url: https://github.com/sbergeroncp/map/tuto_1
-* imageUrl: /static/skillmap/forest/forest1.gif
+* imageUrl: 
 * tags: easy, sprite, movement
 * next: tuto_2
 * position: 0 0
@@ -31,6 +31,6 @@
 * type: tutorial
 * description: Use loops to add random fires to your map!
 * url: https://github.com/sbergeroncp/map/tuto_2
-* imageUrl: /static/skillmap/forest/forest2.gif
+* imageUrl: 
 * tags: easy, loops, sprites
 * position: 1 0
