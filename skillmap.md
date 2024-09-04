@@ -1,9 +1,9 @@
 # Mon premier jeu
 * name: SbergeronCP
 * description: Initiation à la plateforme MakeCode Arcade.
-* infoUrl: https://github.com/sbergeroncp/map/blob/master/shootemup.png
-* bannerUrl: https://github.com/sbergeroncp/map/blob/master/shootemup.png
-* backgroundurl: https://github.com/sbergeroncp/map/blob/master/shootemup.png
+* infoUrl: 
+* bannerUrl: 
+* backgroundurl: https://github.com/sbergeroncp/map/blob/master/backgrounds/shootemup.png
 * primarycolor: #b27ea3
 * secondarycolor: #ffffff
 * tertiarycolor: #249fa5
