@@ -1,9 +1,9 @@
 # Mon premier jeu
-* name: Mon premier jeu !
-* description: Utiliser les blocs de programmation.
+* name: SbergeronCP
+* description: Initiation à la plateforme MakeCode Arcade.
 * infoUrl: 
 * bannerUrl: 
-* backgroundurl: ![map](https://github.com/sbergeroncp/map/blob/master/shootemup.png?raw=true)
+* backgroundurl:
 * primarycolor: #b27ea3
 * secondarycolor: #ffffff
 * tertiarycolor: #249fa5
@@ -11,8 +11,8 @@
 * completednodecolor: #466849
 
 
-## Save the Forest
-* name: Save the Forest
+## Mon premier jeu
+* name: 🚗 Mon premier jeu ! 🚗
 * layout: manual
 
 ### tuto_1
