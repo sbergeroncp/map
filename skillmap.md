@@ -1,8 +1,8 @@
 # Mon premier jeu
 * name: Mon premier jeu !
 * description: Utiliser les blocs de programmation.
-* infoUrl: skillmap/educator-info/forest-map-info
-* bannerUrl: /static/skillmap/forest/forest6.gif
+* infoUrl: 
+* bannerUrl: 
 * backgroundurl: ![map](https://github.com/sbergeroncp/map/blob/master/shootemup.png?raw=true)
 * primarycolor: #b27ea3
 * secondarycolor: #ffffff
@@ -21,7 +21,7 @@
 * type: tutorial
 * description: Set up your airtanker to make sure you can get everywhere you need to be!
 * url: https://github.com/sbergeroncp/map/tuto_1
-* imageUrl: /static/skillmap/forest/forest1.gif
+* imageUrl: 
 * tags: easy, sprite, movement
 * next: tuto_2
 * position: 0 0
@@ -31,6 +31,6 @@
 * type: tutorial
 * description: Use loops to add random fires to your map!
 * url: https://github.com/sbergeroncp/map/tuto_2
-* imageUrl: /static/skillmap/forest/forest2.gif
+* imageUrl: 
 * tags: easy, loops, sprites
 * position: 1 0
