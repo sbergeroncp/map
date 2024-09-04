@@ -12,7 +12,7 @@
 
 
 ## Mon premier jeu
-* name: 🪐🌠 Mon premier jeu ! 🌠🪐
+* name: 🌠 Mon premier jeu ! 🌠
 * layout: manual
 
 ### tuto_1
@@ -27,10 +27,10 @@
 * position: 0 0
 
 ### tuto_2
-* name: 🌌 Ajouter une image d'arrière-plan ! 🌌
+* name: 🪐 Ajouter une image d'arrière-plan ! 🪐
 * type: tutorial
 * description: Apprendre à utiliser le bloc de programmation Scène.
 * url: https://github.com/sbergeroncp/map/tuto_2
 * imageUrl: 
 * tags: facile, sprite, scène
-* position: 1 0
+* position: 2 0
