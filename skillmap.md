@@ -3,7 +3,7 @@
 * description: Initiation à la plateforme MakeCode Arcade.
 * infoUrl: 
 * bannerUrl: 
-* backgroundurl: /static/map/shootemup.png
+* backgroundurl: /map/shootemup.png
 * primarycolor: #b27ea3
 * secondarycolor: #ffffff
 * tertiarycolor: #249fa5
