@@ -10,12 +10,12 @@ Ajoute le bloc ``||scene:définir image d'arrière-plan||`` (onglet ``||scene:Sc
 
 ```blocks
 
-scene.setBackgroundImage(tutorial_asset_exemple.chateau)
+scene.setBackgroundImage(tutorial_asset_exemple.chateau1)
 
 ```
 
 ```blockconfig.global
-scene.setBackgroundImage(tutorial_asset_exemple.chateau)
+scene.setBackgroundImage(tutorial_asset_exemple.chateau1)
 ```
 
 ```package
