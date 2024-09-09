@@ -24,7 +24,7 @@
 * imageUrl: 
 * tags: facile, sprite, boucle
 * next: tuto_2
-* position: -1 1
+
 
 ### tuto_2
 * name: 🪐 Ajouter une image d'arrière-plan ! 🪐
@@ -34,7 +34,7 @@
 * imageUrl: 
 * tags: facile, sprite, scène
 * next: tuto_3
-* position: 0 -1
+
 
 ### tuto_3
 * allowcodecarryover: false
@@ -44,4 +44,3 @@
 * url: https://github.com/sbergeroncp/map/tuto_1
 * imageUrl: 
 * tags: facile, sprite, boucle
-* position: -1 0
