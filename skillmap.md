@@ -33,9 +33,10 @@
 * url: https://github.com/sbergeroncp/map/tuto_2
 * imageUrl: 
 * tags: facile, sprite, scène
+* next: tuto_3
 * position: 0 -1
 
-### tuto_1
+### tuto_3
 * allowcodecarryover: false
 * name: 🚀 Ajouter un Sprite ! 🚀
 * type: tutorial
@@ -43,5 +44,4 @@
 * url: https://github.com/sbergeroncp/map/tuto_1
 * imageUrl: 
 * tags: facile, sprite, boucle
-* next: tuto_3
 * position: -1 0
