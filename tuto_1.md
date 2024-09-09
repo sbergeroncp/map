@@ -2,20 +2,47 @@
 
 ## @showdialog
 
-Mon premier jeu !
+✅ Apprends à programmer les blocs ``||scene:Scène||`` et ``||game:Jeu||``.
 
 ## Étape 1
 
-Ajoute le bloc ``||scene:définir image d'arrière-plan||`` (onglet ``||scene:Scène||``) dans le bloc ``||loops:au démarrage||``.
+Ajoute le bloc ``||scene:définir couleur d'arrière-plan||`` (onglet ``||scene:Scène||``) dans le bloc ``||loops:au démarrage||``.
 
 ```blocks
 
-scene.setBackgroundImage(tutorial_asset_exemple.chateau1)
+scene.setBackgroundColor(0)
+
+```
+## Étape 2
+
+Modifie le bloc ``||scene:définir couleur d'arrière-plan||``.
+
+Remplace la valeur par ➡️➡️➡️ : ⬛
+
+```blocks
+
+scene.setBackgroundColor(15)
+
+```
+
+## Étape 3
+
+Ajoute le bloc ``||game:splash||`` (onglet ``||scene:Jeu||``) sous le bloc ``||scene:définir couleur d'arrière-plan||``.
+
+Modifie le bloc ``||game:splash||``.
+
+Remplace la valeur par ➡️➡️➡️ : Castlevania
+
+```blocks
+
+scene.setBackgroundColor(15)
+game.splash("Castlevania")
 
 ```
 
 ```blockconfig.global
-scene.setBackgroundImage(tutorial_asset_exemple.chateau1)
+scene.setBackgroundColor(15)
+game.splash("Castlevania")
 ```
 
 ```package

@@ -2,24 +2,48 @@
 
 ## @showdialog
 
-Let's go !
+✅ Apprends à programmer les blocs ``||scene:Scène||`` et ``||sprites:Sprites||``.
 
 ## Étape 1
 
-Ajoute le bloc ``||scene:définir image d'arrière-plan||`` (onglet ``||scene:Scène||``) sous le bloc ``||variables:définir mySprite||``.
+⬇️⬇️⬇️
+
+Ajoute le bloc ``||scene:définir image d'arrière-plan||`` (onglet ``||scene:Scène||``) sous le bloc ``||game:splash||``.
 
 ```blocks
-let vaisseau = sprites.create(tutorial_asset_exemple.spaceship_1, SpriteKind.Player)
-scene.setBackgroundImage(tutorial_asset_exemple.background1)
+
+scene.setBackgroundColor(15)
+game.splash("Castlevania")
+scene.setBackgroundImage(tutorial_asset_exemple.chateau1)
+```
+
+## Étape 2
+
+Ajoute le bloc ``||scene:afficher long texte||`` (onglet ``||scene:Scène||``) sous le bloc ``||scene:définir image d'arrière-plan||``.
+
+Modifie le bloc ``||scene:afficher long texte||``.
+
+Remplace la valeur par ➡️➡️➡️ : Trevor Belmont se lance à l'assaut de Dracula..
+
+```blocks
+
+scene.setBackgroundColor(15)
+game.splash("Castlevania")
+scene.setBackgroundImage(tutorial_asset_exemple.chateau1)
+game.showLongText("En l'an 1526,", DialogLayout.Bottom)
+
 ```
 
 ```blockconfig.global
-let vaisseau = sprites.create(tutorial_asset_exemple.spaceship_1, SpriteKind.Player)
-scene.setBackgroundImage(tutorial_asset_exemple.background1)
+scene.setBackgroundColor(15)
+game.splash("Castlevania")
+scene.setBackgroundImage(tutorial_asset_exemple.chateau1)
+game.showLongText("En l'an 1526,", DialogLayout.Bottom)
 ```
 
 ```template
-let vaisseau = sprites.create(tutorial_asset_exemple.spaceship_1, SpriteKind.Player)
+scene.setBackgroundColor(15)
+game.splash("Castlevania")
 ```
 
 ```package
