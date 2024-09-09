@@ -2,22 +2,30 @@
 
 ## @showdialog
 
-Mon premier jeu !
+🔷🔹🔷
+
+Programmer un arrière-plan.
+
+🔷🔹🔷
 
 ## Étape 1
 
-Ajoute le bloc ``||variables:définir mySprite||`` (onglet ``||sprites:Sprites||``) dans le bloc ``||loops:au démarrage||``.
-
-Clique sur le carré gris et sélectionne la même image que dans l'indice.
+Ajoute le bloc ``||scene:définir image d'arrière-plan||`` (onglet ``||scene:Scène||``) dans le bloc ``||loops:au démarrage||``.
 
 ```blocks
 
-let vaisseau = sprites.create(tutorial_asset_exemple.spaceship_1, SpriteKind.Player)
+scene.setBackgroundImage(tutorial_asset_exemple.chateau)
 
 ```
 
-```blockconfig.global
-let vaisseau = sprites.create(tutorial_asset_exemple.spaceship_1, SpriteKind.Player)
+## Étape 2
+
+Ajoute le bloc ``||scene:définir image d'arrière-plan||`` (onglet ``||scene:Scène||``) dans le bloc ``||loops:au démarrage||``.
+
+```blocks
+
+scene.setBackgroundImage(tutorial_asset_exemple.chateau)
+
 ```
 
 ```package

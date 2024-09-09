@@ -12,25 +12,25 @@
 
 
 ## Mon premier jeu
-* name: 🚗 Mon premier jeu ! 🚗
+* name: 🌠 Mon premier jeu ! 🌠
 * layout: manual
 
 ### tuto_1
 * allowcodecarryover: false
-* name: Prepare Your Plane
+* name: 🚀 Ajouter un Sprite ! 🚀
 * type: tutorial
-* description: Set up your airtanker to make sure you can get everywhere you need to be!
+* description: Apprendre à utiliser le bloc de programmation Sprite.
 * url: https://github.com/sbergeroncp/map/tuto_1
 * imageUrl: 
-* tags: easy, sprite, movement
+* tags: facile, sprite, boucle
 * next: tuto_2
 * position: 0 0
 
 ### tuto_2
-* name: 🔥 Burning Issues 🔥
+* name: 🪐 Ajouter une image d'arrière-plan ! 🪐
 * type: tutorial
-* description: Use loops to add random fires to your map!
+* description: Apprendre à utiliser le bloc de programmation Scène.
 * url: https://github.com/sbergeroncp/map/tuto_2
 * imageUrl: 
-* tags: easy, loops, sprites
-* position: 1 0
+* tags: facile, sprite, scène
+* position: 2 0
