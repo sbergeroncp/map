@@ -6,16 +6,16 @@ Mon premier jeu !
 
 ## Étape 1
 
-Ajoute le bloc ``||variables:définir mySprite||`` (onglet ``||sprites:Sprites||``) dans le bloc ``||loops:au démarrage||``.
+Ajoute le bloc ``||scene:définir image d'arrière-plan||`` (onglet ``||scene:Scène||``) dans le bloc ``||loops:au démarrage||``.
 
 ```blocks
 
-let vaisseau = sprites.create(tutorial_asset_exemple.spaceship_1, SpriteKind.Player)
+scene.setBackgroundImage(tutorial_asset_exemple.chateau)
 
 ```
 
 ```blockconfig.global
-let vaisseau = sprites.create(tutorial_asset_exemple.spaceship_1, SpriteKind.Player)
+scene.setBackgroundImage(tutorial_asset_exemple.chateau)
 ```
 
 ```package
