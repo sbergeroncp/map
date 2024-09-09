@@ -1,6 +1,6 @@
 {
     "name": "map",
-    "version": "0.0.59",
+    "version": "0.0.64",
     "description": "",
     "dependencies": {
         "device": "*"
