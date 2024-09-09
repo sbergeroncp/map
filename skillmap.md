@@ -23,6 +23,7 @@
 * url: https://github.com/sbergeroncp/map/tuto_1
 * imageUrl: 
 * tags: facile, sprite, boucle
+* position : 0 0
 * next: tuto_2
 
 
@@ -33,6 +34,7 @@
 * url: https://github.com/sbergeroncp/map/tuto_2
 * imageUrl: 
 * tags: facile, sprite, scène
+* position : 0 1
 * next: tuto_3
 
 
@@ -44,3 +46,4 @@
 * url: https://github.com/sbergeroncp/map/tuto_1
 * imageUrl: 
 * tags: facile, sprite, boucle
+* position : 0 2
