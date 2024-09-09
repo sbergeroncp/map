@@ -24,7 +24,7 @@
 * imageUrl: 
 * tags: facile, sprite, boucle
 * next: tuto_2
-* position: 0 0
+* position: -1 1
 
 ### tuto_2
 * name: 🪐 Ajouter une image d'arrière-plan ! 🪐
