@@ -30,7 +30,7 @@ Remplace la valeur par ➡️➡️➡️ : Explorant les catacombes du château
 scene.setBackgroundColor(15)
 game.splash("Castlevania")
 scene.setBackgroundImage(tutorial_asset_exemple.chateau1)
-game.showLongText("Explorant les catacombes du château de Dracula...,", DialogLayout.Bottom)
+game.showLongText("Explorant les catacombes du château de Dracula...", DialogLayout.Bottom)
 
 ```
 
@@ -47,16 +47,16 @@ Remplace la valeur par ➡️➡️➡️ : Un sort magique vous transforme en c
 scene.setBackgroundColor(15)
 game.splash("Castlevania")
 scene.setBackgroundImage(tutorial_asset_exemple.chateau1)
-game.showLongText("Explorant les catacombes du château de Dracula...,", DialogLayout.Bottom)
-game.showLongText("Un sort magique vous transforme en chauve-souris...,", DialogLayout.Bottom)
+game.showLongText("Explorant les catacombes du château de Dracula...", DialogLayout.Bottom)
+game.showLongText("Un sort magique vous transforme en chauve-souris...", DialogLayout.Bottom)
 
 ```
 ```blockconfig.global
 scene.setBackgroundColor(15)
 game.splash("Castlevania")
 scene.setBackgroundImage(tutorial_asset_exemple.chateau1)
-game.showLongText(",", DialogLayout.Bottom)
-game.showLongText(",", DialogLayout.Bottom)
+game.showLongText("", DialogLayout.Bottom)
+game.showLongText("", DialogLayout.Bottom)
 
 ```
 
