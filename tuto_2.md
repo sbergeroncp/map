@@ -25,6 +25,8 @@ Modifie le bloc ``||game:afficher long texte||``.
 
 Remplace la valeur par ➡️➡️➡️ : Explorant les catacombes du château de Dracula...
 
+Le paramètre ``||game:bas||`` demeure le même.
+
 ```blocks
 
 scene.setBackgroundColor(15)
@@ -41,6 +43,8 @@ Ajoute le bloc ``||game:afficher long texte||`` (onglet ``||game:Jeu||``) sous l
 Modifie le bloc ``||game:afficher long texte||``.
 
 Remplace la valeur par ➡️➡️➡️ : Un sort magique vous transforme en chauve-souris...
+
+Le paramètre ``||game:bas||`` demeure le même.
 
 ```blocks
 
