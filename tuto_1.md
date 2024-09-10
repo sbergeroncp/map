@@ -40,11 +40,6 @@ game.splash("Castlevania")
 
 ```
 
-```blockconfig.global
-scene.setBackgroundColor(15)
-game.splash("Castlevania")
-```
-
 ```package
 
 tutorial_asset_exemple=github:sbergeroncp/tutorial_asset_exemple
