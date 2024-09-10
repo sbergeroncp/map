@@ -34,14 +34,6 @@ game.showLongText("En l'an 1572, un chasseur de vampires se lance à l'assaut du
 
 ```
 
-```blockconfig.global
-scene.setBackgroundColor(15)
-game.splash("Castlevania")
-scene.setBackgroundImage(tutorial_asset_exemple.chateau1)
-game.showLongText("En l'an 1572, un chasseur de vampires se lance à l'assaut du château de Dracula..,", DialogLayout.Bottom)
-
-```
-
 ```template
 scene.setBackgroundColor(15)
 game.splash("Castlevania")
