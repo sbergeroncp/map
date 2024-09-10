@@ -18,8 +18,7 @@
 ### tuto_1
 * allowcodecarryover: false
 * name: ⬛ Tuto #1 : Ajouter une couleur d'arrière-plan ! ⬛
-* type: tutorial
-* description: Apprendre à programmer les blocs ``||scene:Scène||`` et ``||game:Jeu||`` 
+* type: tutorial 
 * url: https://github.com/sbergeroncp/map/tuto_1
 * imageUrl: 
 * tags: facile, boucle, scène, jeu
@@ -29,7 +28,6 @@
 ### tuto_2
 * name: 🏰 Tuto #2 : Ajouter un arrière-plan ! 🏰
 * type: tutorial
-* description: Apprendre à programmer les blocs ``||scene:Scène||`` et ``||game:Jeu||`` 
 * url: https://github.com/sbergeroncp/map/tuto_2
 * imageUrl: 
 * tags: facile, boucle, scène, jeu
