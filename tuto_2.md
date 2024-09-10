@@ -23,28 +23,38 @@ Ajoute le bloc ``||scene:afficher long texte||`` (onglet ``||scene:Scène||``) s
 
 Modifie le bloc ``||scene:afficher long texte||``.
 
-Remplace la valeur par ➡️➡️➡️ : Au début du jeu, vous incarnerez une vilaine chauve-souris.
+Remplace la valeur par ➡️➡️➡️ : Explorant les catacombes du château de Dracula...
 
 ```blocks
 
 scene.setBackgroundColor(15)
 game.splash("Castlevania")
 scene.setBackgroundImage(tutorial_asset_exemple.chateau1)
-game.showLongText("Au début du jeu, vous incarnerez une vilaine chauve-souris.,", DialogLayout.Bottom)
+game.showLongText("Explorant les catacombes du château de Dracula...,", DialogLayout.Bottom)
+
+```
+
+## Étape 3
+
+Ajoute le bloc ``||scene:afficher long texte||`` (onglet ``||scene:Scène||``) sous le bloc ``||scene:afficher long texte||``.
+
+Modifie le bloc ``||scene:afficher long texte||``.
+
+Remplace la valeur par ➡️➡️➡️ : Un sort magique vous transforme en chauve-souris...
+
+```blocks
+
+scene.setBackgroundColor(15)
+game.splash("Castlevania")
+scene.setBackgroundImage(tutorial_asset_exemple.chateau1)
+game.showLongText("Explorant les catacombes du château de Dracula...,", DialogLayout.Bottom)
+game.showLongText("Un sort magique vous transforme en chauve-souris...,", DialogLayout.Bottom)
 
 ```
 
 ```template
 scene.setBackgroundColor(15)
 game.splash("Castlevania")
-```
-
-```blockconfig.global
-scene.setBackgroundColor(15)
-game.splash("Castlevania")
-scene.setBackgroundImage(tutorial_asset_exemple.chateau1)
-game.showLongText("Au début du jeu, vous incarnerez une vilaine chauve-souris.,", DialogLayout.Bottom)
-
 ```
 
 ```package
