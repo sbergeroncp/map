@@ -2,7 +2,7 @@
 
 ## @showdialog
 
-✅ Apprends à programmer les blocs ``||scene:Scène||`` et ``||sprites:Sprites||``.
+✅ Apprends à programmer les blocs ``||scene:Scène||`` et ``||game:Jeu||``.
 
 ## Étape 1
 
