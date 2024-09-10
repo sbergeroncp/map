@@ -51,6 +51,14 @@ game.showLongText("Explorant les catacombes du château de Dracula...,", DialogL
 game.showLongText("Un sort magique vous transforme en chauve-souris...,", DialogLayout.Bottom)
 
 ```
+```blockconfig.global
+scene.setBackgroundColor(15)
+game.splash("Castlevania")
+scene.setBackgroundImage(tutorial_asset_exemple.chateau1)
+game.showLongText("Explorant les catacombes du château de Dracula...,", DialogLayout.Bottom)
+game.showLongText("Un sort magique vous transforme en chauve-souris...,", DialogLayout.Bottom)
+
+```
 
 ```template
 scene.setBackgroundColor(15)
