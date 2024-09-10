@@ -23,14 +23,14 @@ Ajoute le bloc ``||scene:afficher long texte||`` (onglet ``||scene:Scène||``) s
 
 Modifie le bloc ``||scene:afficher long texte||``.
 
-Remplace la valeur par ➡️➡️➡️ : Trevor Belmont se lance à l'assaut de Dracula..
+Remplace la valeur par ➡️➡️➡️ : En l'an 1572, un chasseur de vampires se lance à l'assaut du château de Dracula..
 
 ```blocks
 
 scene.setBackgroundColor(15)
 game.splash("Castlevania")
 scene.setBackgroundImage(tutorial_asset_exemple.chateau1)
-game.showLongText("En l'an 1526,", DialogLayout.Bottom)
+game.showLongText("En l'an 1572, un chasseur de vampires se lance à l'assaut du château de Dracula..,", DialogLayout.Bottom)
 
 ```
 
@@ -38,7 +38,8 @@ game.showLongText("En l'an 1526,", DialogLayout.Bottom)
 scene.setBackgroundColor(15)
 game.splash("Castlevania")
 scene.setBackgroundImage(tutorial_asset_exemple.chateau1)
-game.showLongText("En l'an 1526,", DialogLayout.Bottom)
+game.showLongText("En l'an 1572, un chasseur de vampires se lance à l'assaut du château de Dracula..,", DialogLayout.Bottom)
+
 ```
 
 ```template

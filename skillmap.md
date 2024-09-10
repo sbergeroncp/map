@@ -12,27 +12,27 @@
 
 
 ## Mon premier jeu
-* name: 🌠 Mon premier jeu ! 🌠
+* name: 🗡️ Mon premier jeu ! 🗡️
 * layout: manual
 
 ### tuto_1
 * allowcodecarryover: false
-* name: 🚀 Ajouter un Sprite ! 🚀
+* name: ⬛ Tuto #1 : Ajouter une couleur d'arrière-plan ! ⬛
 * type: tutorial
-* description: Apprendre à utiliser le bloc de programmation Sprite.
+* description: Apprendre à programmer les blocs ``||scene:Scène||`` et ``||game:Jeu||`` 
 * url: https://github.com/sbergeroncp/map/tuto_1
 * imageUrl: 
-* tags: facile, sprite, boucle
+* tags: facile, boucle, scène, jeu
 * next: tuto_2
 * position: -1 0 
 
 ### tuto_2
-* name: Tuto 2
+* name: 🏰 Tuto #2 : Ajouter un arrière-plan ! 🏰
 * type: tutorial
-* description: Apprendre à utiliser le bloc de programmation Scène.
+* description: Apprendre à programmer les blocs ``||scene:Scène||`` et ``||game:Jeu||`` 
 * url: https://github.com/sbergeroncp/map/tuto_2
 * imageUrl: 
-* tags: facile, sprite, scène
+* tags: facile, boucle, scène, jeu
 * next: tuto_3
 * position: -1 1
 
