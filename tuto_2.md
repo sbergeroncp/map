@@ -23,20 +23,28 @@ Ajoute le bloc ``||scene:afficher long texte||`` (onglet ``||scene:Scène||``) s
 
 Modifie le bloc ``||scene:afficher long texte||``.
 
-Remplace la valeur par ➡️➡️➡️ : En l'an 1572, un chasseur de vampires se lance à l'assaut du château de Dracula..
+Remplace la valeur par ➡️➡️➡️ : Au début du jeu, vous incarnerez une vilaine chauve-souris.
 
 ```blocks
 
 scene.setBackgroundColor(15)
 game.splash("Castlevania")
 scene.setBackgroundImage(tutorial_asset_exemple.chateau1)
-game.showLongText("En l'an 1572, un chasseur de vampires se lance à l'assaut du château de Dracula..,", DialogLayout.Bottom)
+game.showLongText("Au début du jeu, vous incarnerez une vilaine chauve-souris.,", DialogLayout.Bottom)
 
 ```
 
 ```template
 scene.setBackgroundColor(15)
 game.splash("Castlevania")
+```
+
+```blockconfig.global
+scene.setBackgroundColor(15)
+game.splash("Castlevania")
+scene.setBackgroundImage(tutorial_asset_exemple.chateau1)
+game.showLongText("Au début du jeu, vous incarnerez une vilaine chauve-souris.,", DialogLayout.Bottom)
+
 ```
 
 ```package
