@@ -13,7 +13,7 @@ Ajoute le bloc ``||scene:définir image d'arrière-plan||`` (onglet ``||scene:Sc
 ```blocks
 
 scene.setBackgroundColor(15)
-game.splash("Castlevania")
+game.splash("Escapades virtuelles")
 scene.setBackgroundImage(tutorial_asset_exemple.chateau1)
 ```
 
@@ -30,7 +30,7 @@ Le paramètre ``||game:bas||`` demeure le même.
 ```blocks
 
 scene.setBackgroundColor(15)
-game.splash("Castlevania")
+game.splash("Escapades virtuelles")
 scene.setBackgroundImage(tutorial_asset_exemple.chateau1)
 game.showLongText("Explorant les catacombes du château de Dracula...", DialogLayout.Bottom)
 
@@ -49,7 +49,7 @@ Le paramètre ``||game:bas||`` demeure le même.
 ```blocks
 
 scene.setBackgroundColor(15)
-game.splash("Castlevania")
+game.splash("Escapades virtuelles")
 scene.setBackgroundImage(tutorial_asset_exemple.chateau1)
 game.showLongText("Explorant les catacombes du château de Dracula...", DialogLayout.Bottom)
 game.showLongText("Un sort magique vous transforme en chauve-souris...", DialogLayout.Bottom)
@@ -57,7 +57,7 @@ game.showLongText("Un sort magique vous transforme en chauve-souris...", DialogL
 ```
 ```blockconfig.global
 scene.setBackgroundColor(15)
-game.splash("Castlevania")
+game.splash("Escapades virtuelles")
 scene.setBackgroundImage(tutorial_asset_exemple.chateau1)
 game.showLongText("", DialogLayout.Bottom)
 game.showLongText("", DialogLayout.Bottom)
@@ -66,7 +66,7 @@ game.showLongText("", DialogLayout.Bottom)
 
 ```template
 scene.setBackgroundColor(15)
-game.splash("Castlevania")
+game.splash("Escapades virtuelles")
 ```
 
 ```package

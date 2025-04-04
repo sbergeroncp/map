@@ -31,12 +31,12 @@ Ajoute le bloc ``||game:splash||`` (onglet ``||scene:Jeu||``) sous le bloc ``||s
 
 Modifie le bloc ``||game:splash||``.
 
-Remplace la valeur par ➡️➡️➡️ : Castlevania
+Remplace la valeur par ➡️➡️➡️ : Escapades virtuelles
 
 ```blocks
 
 scene.setBackgroundColor(15)
-game.splash("Castlevania")
+game.splash("Escapades virtuelles")
 
 ```
 
