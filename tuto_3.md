@@ -8,7 +8,7 @@ tutorial_asset_exemple=github:sbergeroncp/tutorial_asset_exemple
 
 ## @showdialog
 
-✅ Apprends à programmer les blocs ``||scene:Scène||`` et ``||game:Jeu||``. 🎮
+🎯🎯🎯 Apprends à programmer les blocs ``||game:Jeu||`` - ``||scene:Scène||`` - ``||sprites:Sprites||``.
 
 ## Étape 1
 
@@ -36,7 +36,7 @@ scene.setBackgroundColor(15)
 
 Ajoute le bloc ``||game:splash||`` (onglet ``||scene:Jeu||``) sous le bloc ``||scene:définir couleur d'arrière-plan||``.
 
-Modifie ce bloc pour y insérer le mot **Escapades** dans la case.
+✏️✏️✏️ Écris le mot **Escapades** dans la case.
 
 ```blocks
 
@@ -49,7 +49,7 @@ game.splash("Escapades")
 
 Appuie sur ➕ du bloc ``||game:splash||``.
 
-Écris le mot **virtuelles** dans la case.
+✏️✏️✏️ Écris le mot **virtuelles** dans la case.
 
 ```blocks
 
@@ -60,9 +60,7 @@ game.splash("Escapades", "virtuelles")
 
 ## Étape 5
 
-Ajoute le bloc ``||scene:définir image d'arrière-plan||`` (onglet ``||scene:Scène||``) sous le bloc ``||game:splash||``.
-
-🌳🌳🌳
+🌳🌳🌳 Ajoute le bloc ``||scene:définir image d'arrière-plan||`` (onglet ``||scene:Scène||``) sous le bloc ``||game:splash||``.
 
 ```blocks
 
@@ -76,9 +74,9 @@ scene.setBackgroundImage(tutorial_asset_exemple.forest1)
 
 Ajoute le bloc ``||variables:définir mySprite||`` (onglet ``||sprites:Sprites||``) sous le bloc ``||scene:définir image d'arrière-plan||``.
 
-Renomme la variable ``||variables:mySprite||`` par ``||variables:perso||``. 🚨🚨🚨
+✏️✏️✏️ Renomme la variable ``||variables:mySprite||`` par ``||variables:perso||``. 
 
-Regarde l'indice au besoin et sélectionne le même personnage.
+🔍🔍🔍 Regarde l'indice au besoin et sélectionne le même personnage.
 
 ```blocks
 
@@ -91,9 +89,8 @@ let perso = sprites.create(tutorial_asset_exemple.perso1, SpriteKind.Player)
 
 ## Étape 7
 
-Ajoute le bloc ``||controller:déplacer avec les boutons||`` (onglet ``||controller:Contrôleur||``) sous le bloc ``||Sprites:définir perso||``.
+🕹️🕹️🕹️ Ajoute le bloc ``||controller:déplacer avec les boutons||`` (onglet ``||controller:Contrôleur||``) sous le bloc ``||Sprites:définir perso||``.
 
-🕹️🕹️🕹️
 
 ```blocks
 
@@ -107,9 +104,7 @@ controller.moveSprite(perso)
 
 ## Étape 8
 
-Ajoute le bloc ``||scene:camera suit sprite||`` (onglet ``||scene:Scène||``) sous le bloc ``||controller:déplacer avec les boutons||``.
-
-🎥📹📽️
+🎥🎥🎥 Ajoute le bloc ``||scene:camera suit sprite||`` (onglet ``||scene:Scène||``) sous le bloc ``||controller:déplacer avec les boutons||``.
 
 ```blocks
 
