@@ -1,5 +1,11 @@
 # Tutoriel 1
 
+```package
+
+tutorial_asset_exemple=github:sbergeroncp/tutorial_asset_exemple
+
+```
+
 ## @showdialog
 
 ✅ Apprends à programmer les blocs ``||scene:Scène||`` et ``||game:Jeu||``.
@@ -17,7 +23,7 @@ scene.setBackgroundColor(0)
 
 Modifie le bloc ``||scene:définir couleur d'arrière-plan||``.
 
-Remplace la valeur par ➡️➡️➡️ : ⬛
+Remplace la couleur d'arrière-plan par noir (⬛), soit la valeur 15.
 
 ```blocks
 
@@ -31,7 +37,7 @@ Ajoute le bloc ``||game:splash||`` (onglet ``||scene:Jeu||``) sous le bloc ``||s
 
 Modifie le bloc ``||game:splash||``.
 
-Remplace la valeur par le mot ➡️➡️➡️ : **Escapades**.
+Ajoute le mot **Escapades** dans la case.
 
 ```blocks
 
@@ -44,7 +50,7 @@ game.splash("Escapades")
 
 Appuie sur ➕ du bloc ``||game:splash||``.
 
-Ajoute la valeur par le mot ➡️➡️➡️ : **virtuelles** dans la case de droite.
+Ajoute le mot **virtuelles** dans la case.
 
 ```blocks
 
@@ -117,8 +123,3 @@ scene.cameraFollowSprite(perso)
 
 ```
 
-```package
-
-tutorial_asset_exemple=github:sbergeroncp/tutorial_asset_exemple
-
-```
