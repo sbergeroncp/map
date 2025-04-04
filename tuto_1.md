@@ -19,6 +19,7 @@ Ajoute le bloc ``||scene:définir couleur d'arrière-plan||`` (onglet ``||scene:
 scene.setBackgroundColor(0)
 
 ```
+
 ## Étape 2
 
 Modifie le bloc ``||scene:définir couleur d'arrière-plan||``.
