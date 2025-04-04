@@ -63,7 +63,7 @@ Ajoute le bloc ``||scene:définir image d'arrière-plan||`` (onglet ``||scene:Sc
 
 scene.setBackgroundColor(15)
 game.splash("Escapades", "virtuelles")
-scene.setBackgroundImage(tutorial_asset_exemple.forest1, BackgroundImage )
+scene.setBackgroundImage(tutorial_asset_exemple.forest1)
 
 ```
 
