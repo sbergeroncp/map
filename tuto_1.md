@@ -64,6 +64,26 @@ Ajoute le bloc ``||scene:définir image d'arrière-plan||`` (onglet ``||scene:Sc
 scene.setBackgroundColor(15)
 game.splash("Escapades", "virtuelles")
 scene.setBackgroundImage(tutorial_asset_exemple.forest)
+
+```
+
+## Étape 6
+
+Ajoute le bloc ``||variables:définir mySprite||`` (onglet ``||sprites:Sprites||``) sous le bloc ``||scene:définir image d'arrière-plan||``.
+
+Renomme la valeur ``||variables:mySprite||`` par ``||variables:perso||``.
+
+Clique sur le carré gris et sélectionne un personnageé
+
+Regarde l'indice au besoin.
+
+```blocks
+
+scene.setBackgroundColor(15)
+game.splash("Escapades", "virtuelles")
+scene.setBackgroundImage(tutorial_asset_exemple.forest)
+let perso = sprites.create(tutorial_asset_exemple.perso, SpriteKind.Player)
+
 ```
 
 ```package
