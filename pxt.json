@@ -12,7 +12,8 @@
         "skillmap.md",
         "tuto_1.md",
         "tuto_2.md",
-        "_locales/fr/skillmap.md"
+        "_locales/fr/skillmap.md",
+        "tuto_3.md"
     ],
     "testFiles": [
         "test.ts"

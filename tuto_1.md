@@ -69,7 +69,7 @@ Ajoute le bloc ``||scene:définir image d'arrière-plan||`` (onglet ``||scene:Sc
 
 scene.setBackgroundColor(15)
 game.splash("Escapades", "virtuelles")
-scene.setBackgroundImage(tutorial_asset_exemple.forest1)
+scene.setBackgroundImage(tutorial_asset_exemple.forest_1)
 
 ```
 
@@ -85,8 +85,8 @@ Regarde l'indice au besoin et sélectionne le même personnage.
 
 scene.setBackgroundColor(15)
 game.splash("Escapades", "virtuelles")
-scene.setBackgroundImage(tutorial_asset_exemple.forest1)
-let perso = sprites.create(tutorial_asset_exemple.perso, SpriteKind.Player)
+scene.setBackgroundImage(tutorial_asset_exemple.forest_1)
+let perso = sprites.create(tutorial_asset_exemple.perso_1, SpriteKind.Player)
 
 ```
 
@@ -100,8 +100,8 @@ Ajoute le bloc ``||controller:déplacer avec les boutons||`` (onglet ``||control
 
 scene.setBackgroundColor(15)
 game.splash("Escapades", "virtuelles")
-scene.setBackgroundImage(tutorial_asset_exemple.forest1)
-let perso = sprites.create(tutorial_asset_exemple.perso, SpriteKind.Player)
+scene.setBackgroundImage(tutorial_asset_exemple.forest_1)
+let perso = sprites.create(tutorial_asset_exemple.perso_1, SpriteKind.Player)
 controller.moveSprite(perso)
 
 ```
@@ -116,8 +116,8 @@ Ajoute le bloc ``||scene:camera suit sprite||`` (onglet ``||scene:Scène||``) so
 
 scene.setBackgroundColor(15)
 game.splash("Escapades", "virtuelles")
-scene.setBackgroundImage(tutorial_asset_exemple.forest1)
-let perso = sprites.create(tutorial_asset_exemple.perso, SpriteKind.Player)
+scene.setBackgroundImage(tutorial_asset_exemple.forest_1)
+let perso = sprites.create(tutorial_asset_exemple.perso_1, SpriteKind.Player)
 controller.moveSprite(perso)
 scene.cameraFollowSprite(perso)
 
