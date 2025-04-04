@@ -8,7 +8,7 @@ tutorial_asset_exemple=github:sbergeroncp/tutorial_asset_exemple
 
 ## @showdialog
 
-✅ Apprends à programmer les blocs ``||scene:Scène||`` et ``||game:Jeu||``.
+✅ Apprends à programmer les blocs ``||scene:Scène||`` et ``||game:Jeu||``. 🎮
 
 ## Étape 1
 
@@ -36,9 +36,7 @@ scene.setBackgroundColor(15)
 
 Ajoute le bloc ``||game:splash||`` (onglet ``||scene:Jeu||``) sous le bloc ``||scene:définir couleur d'arrière-plan||``.
 
-Modifie le bloc ``||game:splash||``.
-
-Ajoute le mot **Escapades** dans la case.
+Modifie ce bloc pour y insérer le mot **Escapades** dans la case.
 
 ```blocks
 
@@ -51,7 +49,7 @@ game.splash("Escapades")
 
 Appuie sur ➕ du bloc ``||game:splash||``.
 
-Ajoute le mot **virtuelles** dans la case.
+Écris le mot **virtuelles** dans la case.
 
 ```blocks
 
@@ -64,7 +62,7 @@ game.splash("Escapades", "virtuelles")
 
 Ajoute le bloc ``||scene:définir image d'arrière-plan||`` (onglet ``||scene:Scène||``) sous le bloc ``||game:splash||``.
 
-🌳🌳
+🌳🌳🌳
 
 ```blocks
 
@@ -78,7 +76,7 @@ scene.setBackgroundImage(tutorial_asset_exemple.forest1)
 
 Ajoute le bloc ``||variables:définir mySprite||`` (onglet ``||sprites:Sprites||``) sous le bloc ``||scene:définir image d'arrière-plan||``.
 
-🚨🚨🚨 Renomme la variable ``||variables:mySprite||`` par ``||variables:perso||``. 🚨🚨🚨
+Renomme la variable ``||variables:mySprite||`` par ``||variables:perso||``. 🚨🚨🚨
 
 Regarde l'indice au besoin et sélectionne le même personnage.
 
