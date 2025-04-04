@@ -73,7 +73,7 @@ Ajoute le bloc ``||variables:définir mySprite||`` (onglet ``||sprites:Sprites||
 
 Renomme la valeur ``||variables:mySprite||`` par ``||variables:perso||``.
 
-Clique sur le carré gris et sélectionne un personnageé
+Clique sur le carré gris et sélectionne un personnage.
 
 Regarde l'indice au besoin.
 
