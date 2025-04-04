@@ -31,13 +31,39 @@ Ajoute le bloc ``||game:splash||`` (onglet ``||scene:Jeu||``) sous le bloc ``||s
 
 Modifie le bloc ``||game:splash||``.
 
-Remplace la valeur par ➡️➡️➡️ : Escapades virtuelles
+Remplace la valeur par ➡️➡️➡️ : **Escapades**.
 
 ```blocks
 
 scene.setBackgroundColor(15)
-game.splash("Escapades virtuelles")
+game.splash("Escapades")
 
+```
+
+## Étape 4
+
+Appuie sur ➕ du bloc ``||game:splash||``.
+
+Ajoute la valeur ➡️➡️➡️ : **virtuelles** dans la case de droite.
+
+```blocks
+
+scene.setBackgroundColor(15)
+game.splash("Escapades", "virtuelles")
+
+```
+
+## Étape 5
+
+Ajoute le bloc ``||scene:définir image d'arrière-plan||`` (onglet ``||scene:Scène||``) sous le bloc ``||game:splash||``.
+
+🌳🌳🌳
+
+```blocks
+
+scene.setBackgroundColor(15)
+game.splash("Escapades", "virtuelles")
+scene.setBackgroundImage(tutorial_asset_exemple.forest)
 ```
 
 ```package
