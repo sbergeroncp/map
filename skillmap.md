@@ -3,7 +3,7 @@
 * description: Escapades Virtuelles
 * infoUrl: 
 * bannerUrl: 
-* backgroundurl: https://github.com/sbergeroncp/map/blob/backgrounds/escapades.png
+* backgroundurl: https://github.com/sbergeroncp/map/backgrounds/escapades.png
 * primarycolor: #b27ea3
 * secondarycolor: #ffffff
 * tertiarycolor: #249fa5
@@ -12,7 +12,7 @@
 
 
 ## Mon premier jeu
-* name: 🗡️ Mon premier jeu ! 🗡️
+* name: 🗡️ Crée l'adaptation vidéoludique du livre Escapades virtuelles. 🗡️
 * layout: manual
 
 ### tuto_1
