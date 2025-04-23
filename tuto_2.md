@@ -55,13 +55,14 @@ game.showLongText("Explorant les catacombes du château de Dracula...", DialogLa
 game.showLongText("Un sort magique vous transforme en chauve-souris...", DialogLayout.Bottom)
 
 ```
+
 ```blockconfig.global
 scene.setBackgroundColor(15)
-game.splash("Escapades virtuelles")
-scene.setBackgroundImage(tutorial_asset_exemple.chateau1)
-game.showLongText("", DialogLayout.Bottom)
-game.showLongText("", DialogLayout.Bottom)
-
+game.splash("Escapades", "virtuelles")
+scene.setBackgroundImage(tutorial_asset_exemple.background2)
+let mySprite = sprites.create(tutorial_asset_exemple.perso1, SpriteKind.Player)
+scene.cameraShake(5, 1000)
+controller.moveSprite(mySprite)
 ```
 
 ```template

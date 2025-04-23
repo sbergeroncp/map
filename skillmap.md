@@ -12,7 +12,7 @@
 
 ### tuto_1
 * allowcodecarryover: false
-* name: ⬛ Tuto #1 : Essai ! ⬛
+* name: ⬛ Tuto #1 : test ! ⬛
 * type: tutorial 
 * url: https://github.com/sbergeroncp/map/tuto_1
 * imageUrl: 
