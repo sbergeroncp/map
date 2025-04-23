@@ -3,7 +3,7 @@
 * description: Escapades Virtuelles
 * infoUrl: 
 * bannerUrl: 
-* backgroundurl: https://raw.githubusercontent.com/sbergeroncp/map/master/backgrounds/escapades.png
+* backgroundurl: https://github.com/sbergeroncp/map/blob/ac7786e7141232c41070e763294a1d771eca6da2/backgrounds/escapades.png
 * primarycolor: #b27ea3
 * secondarycolor: #ffffff
 * tertiarycolor: #249fa5
