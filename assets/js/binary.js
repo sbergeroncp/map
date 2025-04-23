@@ -1,4 +1,4 @@
-// meta={"simUrl":"https://trg-arcade.userpxt.io/v2.0.53/---simulator","cdnUrl":"https://cdn.makecode.com","version":"2.0.10","target":"arcade","targetVersion":"2.0.53","repo":"sbergeroncp/map"}
+// meta={"simUrl":"https://trg-arcade.userpxt.io/v2.0.53/---simulator","cdnUrl":"https://cdn.makecode.com","version":"2.0.11","target":"arcade","targetVersion":"2.0.53","repo":"sbergeroncp/map"}
 // total=1640844 new=28.83% cached=66.86% other=4.31%
 (function (ectx) {
 'use strict';
@@ -428,7 +428,7 @@ const pxsim_pxtrt = pxsim.pxtrt;
 const pxsim_numops = pxsim.numops;
 
 
-function _main___P36326(s) {
+function _main___P36491(s) {
 let r0 = s.r0, step = s.pc;
 s.pc = -1;
 
@@ -830,13 +830,13 @@ switch (step) {
     return leave(s, r0)
   default: oops()
 } } }
-_main___P36326.info = {"start":0,"length":0,"line":0,"column":0,"endLine":0,"endColumn":0,"fileName":"main.ts","functionName":"<main>","argumentNames":[]}
-_main___P36326.continuations = [  ]
+_main___P36491.info = {"start":0,"length":0,"line":0,"column":0,"endLine":0,"endColumn":0,"fileName":"main.ts","functionName":"<main>","argumentNames":[]}
+_main___P36491.continuations = [  ]
 
-function _main___P36326_mk(s) {
+function _main___P36491_mk(s) {
     checkStack(s.depth);
     return {
-        parent: s, fn: _main___P36326, depth: s.depth + 1,
+        parent: s, fn: _main___P36491, depth: s.depth + 1,
         pc: 0, retval: undefined, r0: undefined, overwrittenPC: false, lambdaArgs: null,
   tmp_0: undefined,
   tmp_1: undefined,
@@ -42058,5 +42058,5 @@ const sprites_BaseSpriteSayRenderer__C20089_VT = mkVTable({
 
 const breakpoints = setupDebugger(1, [])
 
-return _main___P36326
+return _main___P36491
 })
