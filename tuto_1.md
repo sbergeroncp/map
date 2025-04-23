@@ -99,7 +99,3 @@ scene.cameraShake(5, 1000)
 controller.moveSprite(mySprite)
 ```
 
-```template
-scene.setBackgroundColor(15)
-game.splash("Escapades virtuelles")
-```
