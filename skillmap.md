@@ -1,9 +1,9 @@
 # Mon premier jeu
 * name: SbergeronCP
-* description: Initiation à la plateforme MakeCode Arcade.
+* description: Escapades Virtuelles
 * infoUrl: 
 * bannerUrl: 
-* backgroundurl: https://raw.githubusercontent.com/sbergeroncp/map/master/backgrounds/castlevania.png
+* backgroundurl: https://raw.githubusercontent.com/sbergeroncp/map/master/backgrounds/escapades.png
 * primarycolor: #b27ea3
 * secondarycolor: #ffffff
 * tertiarycolor: #249fa5
@@ -19,7 +19,7 @@
 * allowcodecarryover: false
 * name: ⬛ Tuto #1 : Ajouter une couleur d'arrière-plan ! ⬛
 * type: tutorial 
-* url: https://github.com/sbergeroncp/map/tuto_1
+* url: https://github.com/sbergeroncp/escapades/tuto_a
 * imageUrl: 
 * tags: facile, boucle, scène, jeu
 * next: tuto_2
