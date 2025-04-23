@@ -17,9 +17,9 @@
 
 ### tuto_1
 * allowcodecarryover: false
-* name: ⬛ Tuto #1 : Ajouter une couleur d'arrière-plan ! ⬛
+* name: ⬛ Tuto #1 : Essai ! ⬛
 * type: tutorial 
-* url: https://github.com/sbergeroncp/escapades/tuto_a
+* url: https://github.com/sbergeroncp/map/tuto_1
 * imageUrl: 
 * tags: facile, boucle, scène, jeu
 * next: tuto_2
