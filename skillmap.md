@@ -10,11 +10,6 @@
 * highlightcolor: #fcd34b
 * completednodecolor: #466849
 
-
-## Mon premier jeu
-* name: 🗡️ Crée l'adaptation vidéoludique du livre Escapades virtuelles. 🗡️
-* layout: manual
-
 ### tuto_1
 * allowcodecarryover: false
 * name: ⬛ Tuto #1 : Essai ! ⬛
