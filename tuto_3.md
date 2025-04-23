@@ -117,3 +117,11 @@ scene.cameraFollowSprite(perso)
 
 ```
 
+```blockconfig.global
+scene.setBackgroundColor(15)
+game.splash("Escapades", "virtuelles")
+scene.setBackgroundImage(tutorial_asset_exemple.background2)
+let mySprite = sprites.create(tutorial_asset_exemple.perso1, SpriteKind.Player)
+scene.cameraShake(5, 1000)
+controller.moveSprite(mySprite)
+```
